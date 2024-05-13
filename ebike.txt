@@ -1,5 +1,6 @@
 ##electric bike
 
+file:///C:/Renesas/RA/e2studio_v2022-07_fsp_v4.0.0/fsp_documentation/v4.0.0/fsp_user_manual_v4.0.0/_s_t_a_r_t__d_e_v.html
 https://volto.co.nz/wiring-diagram-for-tdx-models/circuit-diagram/
 
 https://www.researchgate.net/figure/Typical-Electrical-Circuit-Diagram-of-two-wheeler_fig1_228763161

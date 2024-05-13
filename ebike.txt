@@ -1,5 +1,6 @@
 ##electric bike
 
+https://community.renesas.com/tools/e2studio/f/e2studio-forum/30540/e2-studio-2022-07-version-download
 file:///C:/Renesas/RA/e2studio_v2022-07_fsp_v4.0.0/fsp_documentation/v4.0.0/fsp_user_manual_v4.0.0/_s_t_a_r_t__d_e_v.html
 https://volto.co.nz/wiring-diagram-for-tdx-models/circuit-diagram/
 

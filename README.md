@@ -11,4 +11,6 @@ https://www.mouser.com/datasheet/2/405/1/spruii7b-1953453.pdf
 
 <img width="394" alt="image" src="https://github.com/saidijongo/RA6E1_Series_e2studio_control/assets/31678025/494e179a-f75d-4d17-acd1-84a9f8d4ac78">
 
+https://labprojectsbd.com/2023/03/20/how-to-interface-a-7-segment-display-with-stm32/
+
 

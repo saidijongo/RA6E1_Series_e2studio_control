@@ -1,6 +1,7 @@
 # RA6E1_Series_e2studio_control
 R7FA6E10F2CFM, Cortex-M33
 
+
 Armcortex-M23
 https://www.nuvoton.com/products/iot-solution/iot-platform/numaker-iot-m2354/
 https://os.mbed.com/platforms/NUMAKER-M2354/

@@ -29,5 +29,8 @@ https://www.electronicsforu.com/resources/7-segment-display-pinout-understanding
 https://mcu-selector.renesas.com/en/mcus/ra6t2/
 https://www.renesas.com/us/en/document/apn/vector-control-permanent-magnetic-synchronous-motor-hall-sensors-mckmcb-ra-family
 
+<img width="562" alt="image" src="https://github.com/saidijongo/RA6E1_Series_e2studio_control/assets/31678025/661317b6-262c-488c-83d3-c4211a2bc26d">
+
+
 
 

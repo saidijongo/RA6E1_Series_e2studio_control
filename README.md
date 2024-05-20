@@ -24,5 +24,8 @@ https://labprojectsbd.com/2023/03/20/how-to-interface-a-7-segment-display-with-s
 
 ![image](https://github.com/saidijongo/RA6E1_Series_e2studio_control/assets/31678025/6ccf611d-1ddb-44f6-b140-26dfb88fba97)
 
+https://mcu-selector.renesas.com/en/mcus/ra6t2/
+https://www.renesas.com/us/en/document/apn/vector-control-permanent-magnetic-synchronous-motor-hall-sensors-mckmcb-ra-family
+
 
 

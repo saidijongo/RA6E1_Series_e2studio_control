@@ -52,4 +52,30 @@ If bit 4 is high, temp = temp ^ MASK(1) toggles bit 1 (inverts its value).
 The modified value of temp is written back to PTBD.
 
 
+////////////////////////////////////////////////////////////
+//// create a similar function for another port, say port C, to reinforce the concepts. We'll set bits 1 and 6, clear bits 2 ////and 4, and if bit 3 is high, we'll invert bit 5.////
+/////////////////
+
+#define MASK(x) ((unsigned char) 1<<(x))
+
+void manage_port_C() {
+    uint_t temp;
+    temp = PTCD; // freeze PTCD's value
+
+    // Set bits 1 and 6
+    temp = temp | (MASK(1) | MASK(6));
+
+    // Clear bits 2 and 4
+    temp = temp & ~(MASK(2) | MASK(4));
+
+    // If bit 3 is high, invert bit 5
+    if (temp & MASK(3))
+        temp = temp ^ MASK(5);
+
+    PTCD = temp; // commit the changes in PTCD
+}
+
+///////////////////////////////////////////////////////////
+
+
 

@@ -1,0 +1,55 @@
+Embedded systems
+Digital control, Baremetal and Real Time OS (RTOS)
+
+Memery, Storage, Battery, 
+Kinetis KL series byNXP, M0+, RAM 16kB
+STM32F series by STMicroelectronics, RAM 12kB
+ATMega328p by microchip, RAM 2kB
+
+
+/////////////////////////////////////////////////////////////////////////////////////
+#define MASK(x) ((unsigned char) 1<<(x))
+
+void manage_port_B() {
+    uint_t temp;
+    temp = PTBD; // freeze PTBD's value
+    temp = temp | (MASK(2) | MASK(5));
+    temp = temp & ~(MASK(0) | MASK(3) | MASK(7));
+
+    if (temp & MASK(4))
+        temp = temp ^ MASK(1);
+    
+    PTBD = temp; // commit the changes in PTBD
+}
+
+?/////////////////////////////////////////////////////////////////////////////////////
+
+#define MASK(x) ((unsigned char) 1<<(x))
+MASK(x) creates a mask by shifting the number 1 left by x positions. This is used to isolate or manipulate a specific bit.
+
+uint_t temp;
+temp = PTBD; // freeze PTBD's value
+
+
+MASK(2) produces 0b00000100 (4 in decimal).
+MASK(5) produces 0b00100000 (32 in decimal).
+MASK(2) | MASK(5) results in 0b00100100.
+temp | (MASK(2) | MASK(5)) sets bits 2 and 5 in temp to 1.
+
+
+MASK(0) produces 0b00000001 (1 in decimal).
+MASK(3) produces 0b00001000 (8 in decimal).
+MASK(7) produces 0b10000000 (128 in decimal).
+MASK(0) | MASK(3) | MASK(7) results in 0b10001001.
+~(MASK(0) | MASK(3) | MASK(7)) inverts the bits, resulting in 0b01110110.
+temp & ~(MASK(0) | MASK(3) | MASK(7)) clears bits 0, 3, and 7 in temp.
+
+
+temp & MASK(4) checks if bit 4 is high (1).
+If bit 4 is high, temp = temp ^ MASK(1) toggles bit 1 (inverts its value).
+
+
+The modified value of temp is written back to PTBD.
+
+
+

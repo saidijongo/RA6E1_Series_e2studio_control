@@ -2,6 +2,8 @@
 
 R7FA6E10F2CFM, Cortex-M33
 
+RA6E1 MCU has SEGGER J-Link emulator,Arm Cortex-M33 core 200MHz operating frequency and  has 1MB of flash memory and 256KB of RAM, making it suitable for more memory-intensive applications
+
 
 Armcortex-M23
 https://www.nuvoton.com/products/iot-solution/iot-platform/numaker-iot-m2354/

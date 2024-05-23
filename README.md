@@ -7,6 +7,7 @@ RA6E1 MCU has SEGGER J-Link emulator,Arm Cortex-M33 core 200MHz operating freque
 
 Armcortex-M23
 https://www.nuvoton.com/products/iot-solution/iot-platform/numaker-iot-m2354/
+https://www.renesas.com/us/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus#parametric_options
 
 https://os.mbed.com/platforms/NUMAKER-M2354/
 

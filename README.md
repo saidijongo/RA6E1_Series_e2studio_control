@@ -43,6 +43,10 @@ https://www.sunrom.com/p/stm32f407vgt6-arm-cortex-m4-1mb-flash-168mhz-lqfp100
 https://ledbestov.live/product_details/10948651.html
 https://ko.aliexpress.com/i/4000077989696.html?gatewayAdapt=glo2kor
 
+STM32cubeIDE
+https://www.st.com/en/development-tools/stm32cubeide.html#get-software
+https://os.mbed.com/
+
 
 
 

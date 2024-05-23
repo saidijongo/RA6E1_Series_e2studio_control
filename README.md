@@ -34,6 +34,8 @@ https://www.renesas.com/us/en/document/apn/vector-control-permanent-magnetic-syn
 
 RL78 renesas simulator
 https://resource.renesas.com/resource/lib/eng/websimulator/index.html
+CS+ for CC
+https://www.renesas.com/us/en/document/uid/cs-cc-v81100?r=488821
 
 
 

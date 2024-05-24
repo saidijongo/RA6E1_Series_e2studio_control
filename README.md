@@ -50,6 +50,9 @@ https://os.mbed.com/
 stm32f072rbt6
 https://www.st.com/resource/en/datasheet/stm32f072c8.pdf
 
+Modbus tool
+file:///C:/Program%20Files/Modbus%20Tools/Modbus%20Poll/quick.html
+
 
 
 

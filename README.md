@@ -47,6 +47,9 @@ STM32cubeIDE
 https://www.st.com/en/development-tools/stm32cubeide.html#get-software
 https://os.mbed.com/
 
+stm32f072rbt6
+https://www.st.com/resource/en/datasheet/stm32f072c8.pdf
+
 
 
 

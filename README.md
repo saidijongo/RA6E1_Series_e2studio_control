@@ -57,6 +57,9 @@ https://www.modbustools.com/download.html
 ebike pysics
 https://www.furosystems.com/news/the-physics-behind-electric-bikes-through-numbers/
 
+Memory Address
+
+
 
 
 

@@ -54,6 +54,9 @@ Modbus tool
 file:///C:/Program%20Files/Modbus%20Tools/Modbus%20Poll/quick.html
 https://www.modbustools.com/download.html
 
+ebike pysics
+https://www.furosystems.com/news/the-physics-behind-electric-bikes-through-numbers/
+
 
 
 

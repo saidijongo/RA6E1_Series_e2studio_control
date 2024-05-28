@@ -60,6 +60,9 @@ https://www.furosystems.com/news/the-physics-behind-electric-bikes-through-numbe
 MCU 8051
 [Memory Address](https://gcekbpatna.ac.in/assets/documents/lecturenotes/MPMC_module_4.pdf)
 
+bldc driver  STSPIN32F0
+https://easyeda.com/editor#id=e8fb88ed2f0542268b2bc4e6a06020b6|47901cc4511b438eb4d475a6fe11bb11
+
 
 
 

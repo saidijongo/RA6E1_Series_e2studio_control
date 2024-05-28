@@ -62,6 +62,10 @@ MCU 8051
 
 bldc driver  STSPIN32F0
 https://easyeda.com/editor#id=e8fb88ed2f0542268b2bc4e6a06020b6|47901cc4511b438eb4d475a6fe11bb11
+https://easyeda.com/editor#id=e35c3966b5844b63af7ef19dc7ff2612|992efedaefa644ab80e376655fbf290d
+
+ti DRIVER ic
+https://www.ti.com/product/DRV8313
 
 
 

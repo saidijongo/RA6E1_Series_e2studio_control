@@ -57,7 +57,8 @@ https://www.modbustools.com/download.html
 ebike pysics
 https://www.furosystems.com/news/the-physics-behind-electric-bikes-through-numbers/
 
-Memory Address
+MCU 8051
+[Memory Address](https://gcekbpatna.ac.in/assets/documents/lecturenotes/MPMC_module_4.pdf)
 
 
 

@@ -71,6 +71,9 @@ ti DRIVER ic
 https://www.ti.com/product/DRV8313
 https://www.allegromicro.com/en/products/motor-drivers/bldc-drivers/a3930-1
 
+DRV8313 easyeda pcb
+https://easyeda.com/editor#id=6e3afb91999f4f0596a7b65e0c2d3052|34543cd4a4004de1840d808cd8fea8ae
+
 
 
 

@@ -9,6 +9,9 @@ Armcortex-M23
 https://www.nuvoton.com/products/iot-solution/iot-platform/numaker-iot-m2354/
 https://www.renesas.com/us/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus#parametric_options
 
+board labaled
+https://www.mouser.com/datasheet/2/698/r20qs0025eg0101_fpb_ra6e1_qsg-2931863.pdf
+
 https://os.mbed.com/platforms/NUMAKER-M2354/
 
 https://www.mouser.com/datasheet/2/405/1/spruii7b-1953453.pdf

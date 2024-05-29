@@ -38,6 +38,9 @@ https://www.renesas.com/us/en/document/apn/vector-control-permanent-magnetic-syn
 
 RL78 renesas simulator
 https://resource.renesas.com/resource/lib/eng/websimulator/index.html
+renesas RL78 book
+https://caxapa.ru/thumbs/585473/Dean_Conrad_CFREE_ES_RL78_2nd_Ed_dist.pdf
+
 CS+ for CC
 https://www.renesas.com/us/en/document/uid/cs-cc-v81100?r=488821
 

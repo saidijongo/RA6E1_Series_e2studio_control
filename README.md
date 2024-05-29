@@ -11,6 +11,8 @@ https://www.renesas.com/us/en/products/microcontrollers-microprocessors/ra-corte
 
 board labaled
 https://www.mouser.com/datasheet/2/698/r20qs0025eg0101_fpb_ra6e1_qsg-2931863.pdf
+bldc motor- community
+https://community.renesas.com/mcu-mpu/ra/f/forum/32125/ra2e1-bldc-motor-control-with-hall-sensor/113850#113850
 
 https://os.mbed.com/platforms/NUMAKER-M2354/
 

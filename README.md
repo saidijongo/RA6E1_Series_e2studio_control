@@ -74,6 +74,9 @@ https://www.allegromicro.com/en/products/motor-drivers/bldc-drivers/a3930-1
 DRV8313 easyeda pcb
 https://easyeda.com/editor#id=6e3afb91999f4f0596a7b65e0c2d3052|34543cd4a4004de1840d808cd8fea8ae
 
+Renesas RX63N
+https://webpages.charlotte.edu/~jmconrad/ECGR4101-2013-08/notes/ES_RX63N_Reprint_Soft_Proof_2013-09-30.pdf
+
 
 
 

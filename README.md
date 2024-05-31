@@ -85,6 +85,9 @@ https://easyeda.com/editor#id=6e3afb91999f4f0596a7b65e0c2d3052|34543cd4a4004de18
 Renesas RX63N
 https://webpages.charlotte.edu/~jmconrad/ECGR4101-2013-08/notes/ES_RX63N_Reprint_Soft_Proof_2013-09-30.pdf
 
+SPI dc
+https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all
+
 
 
 

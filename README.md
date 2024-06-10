@@ -101,6 +101,9 @@ https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all
 MCU docs
 http://www.kocw.net/home/cview.do?cid=63fe4054d4b1fa03&ar=link_openapi
 
+bldc motor driver SYS-BLD-300B 
+https://www.sys-motor.com/Account/Plug-ins/kindeditor/attached/file/20180516/20180516125751_1905.pdf
+
 
 
 

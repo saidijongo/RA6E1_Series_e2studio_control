@@ -110,7 +110,8 @@ https://www.st.com/resource/en/datasheet/stm32f103c8.pdf
 STM32 Nucleo-F401RE
 https://components101.com/microcontrollers/stm32-nucleo-f401re-pinout-datasheet
 
-
+stm32 nucleo-f334r8
+https://api.riot-os.org/group__boards__nucleo-f334r8.html
 
 
 

@@ -113,5 +113,8 @@ https://components101.com/microcontrollers/stm32-nucleo-f401re-pinout-datasheet
 stm32 nucleo-f334r8
 https://api.riot-os.org/group__boards__nucleo-f334r8.html
 
+GD32F103RCT6
+https://cdn-reichelt.de/documents/datenblatt/A200/GD32F103XX-DATASHEET-REV-2.7.pdf
+
 
 

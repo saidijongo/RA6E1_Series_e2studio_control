@@ -59,7 +59,6 @@ https://www.sunrom.com/p/stm32f407vgt6-arm-cortex-m4-1mb-flash-168mhz-lqfp100
 https://ledbestov.live/product_details/10948651.html
 https://ko.aliexpress.com/i/4000077989696.html?gatewayAdapt=glo2kor
 
-
 STM32cubeIDE
 https://www.st.com/en/development-tools/stm32cubeide.html#get-software
 https://os.mbed.com/
@@ -67,11 +66,9 @@ https://os.mbed.com/
 stm32f072rbt6
 https://www.st.com/resource/en/datasheet/stm32f072c8.pdf
 
-
 Modbus tool
 file:///C:/Program%20Files/Modbus%20Tools/Modbus%20Poll/quick.html
 https://www.modbustools.com/download.html
-
 
 ebike pysics
 https://www.furosystems.com/news/the-physics-behind-electric-bikes-through-numbers/
